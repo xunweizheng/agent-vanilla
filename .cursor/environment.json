@@ -1,0 +1,4 @@
+{
+  "name": "agent-vanilla",
+  "install": "echo agent-vanilla ready"
+}
